@@ -1,4 +1,4 @@
-# SELECTION SORTa
+# SELECTION SORT : selecting minimum and swapping
 def minima(arr):
     min_index = 0
     for i in range(1,len(arr)):
